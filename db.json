@@ -1,63 +1,63 @@
 {
-  current: [
+  "current": [
     {
-      id: 1,
-      title: 'assignment 1',
-      type: 'current'
+      "id": 1,
+      "title": "assignment 1",
+      "type": "current"
     },
     {
-      id: 2,
-      title: 'assignment 2',
-      type: 'current'
+      "id": 2,
+      "title": "assignment 2",
+      "type": "current"
     },
     {
-      id: 3,
-      title: 'assignment 3',
-      type: 'current'
+      "id": 3,
+      "title": "assignment 3",
+      "type": "current"
     },
     {
-      id: 4,
-      title: 'assignment 4',
-      type: 'current'
+      "id": 4,
+      "title": "assignment 4",
+      "type": "current"
     },
     {
-      id: 5,
-      title: 'assignment 5',
-      type: 'current'
+      "id": 5,
+      "title": "assignment 5",
+      "type": "current"
     }
   ],
-  highlighted: [
+  "highlighted": [
     {
-      id: 6,
-      title: 'assignment 6',
-      type: 'highlighted'
+      "id": 6,
+      "title": "assignment 6",
+      "type": "highlighted"
     },
     {
-      id: 7,
-      title: 'assignment 7',
-      type: 'highlighted'
+      "id": 7,
+      "title": "assignment 7",
+      "type": "highlighted"
     },
     {
-      id: 8,
-      title: 'assignment 8',
-      type: 'highlighted'
+      "id": 8,
+      "title": "assignment 8",
+      "type": "highlighted"
     }
   ],
-  archived: [
+  "archived": [
     {
-      id: 9,
-      title: 'assignment 9',
-      type: 'archived'
+      "id": 9,
+      "title": "assignment 9",
+      "type": "archived"
     },
     {
-      id: 10,
-      title: 'assignment 10',
-      type: 'archived'
+      "id": 10,
+      "title": "assignment 10",
+      "type": "archived"
     },
     {
-      id: 11,
-      title: 'assignment 11',
-      type: 'archived'
+      "id": 11,
+      "title": "assignment 11",
+      "type": "archived"
     }
   ]
 }
